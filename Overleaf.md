@@ -1,1 +1,1 @@
-<H1>Overleaf Setuyp of LaTeX</H1>
+<H1>Overleaf Setup of LaTeX</H1>
